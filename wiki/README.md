@@ -1,0 +1,75 @@
+# Энциклопедия профиля svend4
+
+Публичный профиль содержит 62 репозитория, сгруппированных в 6 тем. Данные собраны из GitHub API 2026-07-02.
+
+## Темы
+- [ai-agents-llm](themes/ai-agents-llm.md) — 26 репозиториев
+- [applied-social-med-robotics-games](themes/applied-social-med-robotics-games.md) — 6 репозиториев
+- [commerce-marketplaces](themes/commerce-marketplaces.md) — 6 репозиториев
+- [knowledge-docs-search](themes/knowledge-docs-search.md) — 13 репозиториев
+- [meta-info-experiments](themes/meta-info-experiments.md) — 9 репозиториев
+- [platform-devtools-info-os](themes/platform-devtools-info-os.md) — 2 репозиториев
+
+## Все репозитории
+- [info201](repositories/info201.md) — info
+- [info200](repositories/info200.md) — info
+- [daten40](repositories/daten40.md) — Info, блоки, рационал ос, IFOS
+- [infon](repositories/infon.md) — info, TVCP — Terminal Video Communication Platform, терминал видео коммуникация платформа, игры 
+- [lorenzo](repositories/lorenzo.md) — info 
+- [robot](repositories/robot.md) — info
+- [info10](repositories/info10.md) — info, shop
+- [data15](repositories/data15.md) — info
+- [info150](repositories/info150.md) — info med 
+- [nautilus](repositories/nautilus.md) — мета инфопортал протокол
+- [info40](repositories/info40.md) — AI Agent Orchestration Platform, Production-ready платформа для оркестрации, аренды и совместного использования AI-агентов и мульти-агентов
+- [ingit](repositories/ingit.md) —  InGit - Integrated Git Platform, offline-first система управления версиями, проектами и документацией
+- [data70](repositories/data70.md) — info, чат экспорт, много тем 
+- [info100](repositories/info100.md) — info, лаборатория агентов
+- [pro2](repositories/pro2.md) — info ицзин трансформер 
+- [data50](repositories/data50.md) — info, аи аватары
+- [in4](repositories/in4.md) — info, домашние AI-кластеры для локального LLM-инференса, prima.cpp
+- [info30](repositories/info30.md) — info, Claude Code Knowledge System, Система расширенных знаний для Claude Code
+- [info20](repositories/info20.md) — info, расширение возможностей Claude Code через различные методы и технологии
+- [claudeai-test-project-k](repositories/claudeai-test-project-k.md) — тесты, Claude AI тест, Desktop Commander тест, тест???? проблемы с кодировкой текста юникода 
+- [meta](repositories/meta.md) — info, meta — монорепо hex-проектов, монорепо для экосистемы проектов на основе граф Q6 (система гексаграмм)
+- [data2](repositories/data2.md) — info, ЕТД по Крюкову, и для робототехники так же 
+- [meta4](repositories/meta4.md) — info, flower shop project 
+- [meta1](repositories/meta1.md) — info, Continuum — детерминированный рантайм для кода, сгенерированного ИИ
+- [meta10](repositories/meta10.md) — info, grep-ast → ast-grep — естественный двухстадийный пайплайн
+- [infom](repositories/infom.md) — info, ГрафРАГ 
+- [in4n](repositories/in4n.md) — info, динамический граф информационный аквариум
+- [info15](repositories/info15.md) — info, ершам канал вики
+- [soz150](repositories/soz150.md) — info соц, writing os, социально-юридическое приложение 
+- [information](repositories/information.md) — info новости ньюз
+- [meta2](repositories/meta2.md) — info восстановление разорванных документов
+- [data7](repositories/data7.md) — info,  задача коммивояжера, оптимизация, mmorpg, диссертации, энциклопедии, двунаправленная трансформация, 1. Meta-Orchestrator Switchboard, 2. Paradigm 2: Professional Simulator, 3. MMO AI Bridge v1.1, 4. Scientific Knowledge Management, 5. TSP Algorithms & Multi-Agent, 6. Infrastructure & DevOps 
+- [daten11](repositories/daten11.md) — Info информация и метаданные 4 уровня инфо ос
+- [daten22](repositories/daten22.md) — Info / поисковой оффлайн апп c SQLite FTS4 / 16 архетипов Псевдо RAG
+- [info5](repositories/info5.md) — 4х-уровневая пирамида автоматизации инфопроцессов
+- [info1](repositories/info1.md) — info, инфо система, шаблоны, алгоритмы
+- [data20](repositories/data20.md) — info data, offline app, embedded back end, в апп встроенный бэкенд 
+- [universal-file-storage-mcp](repositories/universal-file-storage-mcp.md) — Universal File Storage MCP Server. Универсальный MCP сервер для доступа к файлам через Claude AI на ЛЮБОЙ платформе:   💻 Windows, macOS, Linux  📱 Android устройства  🌐 NAS (сетевые хранилища)  ☁️ Облачные хранилища (WebDAV, S3)
+- [info](repositories/info.md) — info, параллели, соответствие предметов и явлений, псевдо ии
+- [info4](repositories/info4.md) — ИИ скиллы, база данных методов скилл,  псевдо RAG
+- [data10](repositories/data10.md) — info, Dynamic Content Blocks System, Система динамических информационных блоков для законодательных текстов и структурированного контента
+- [info3](repositories/info3.md) — info, гуманитарные формулы,  4х частная система внутри псевдо RAG, формулы архетипы алгоритмы теоремы
+- [daten](repositories/daten.md) — иос - инфо операцион система 
+- [data30](repositories/data30.md) — info ос рационал программ
+- [daten3](repositories/daten3.md) — travelhub ultimate / турист хаб / партнёрские программы
+- [daten2](repositories/daten2.md) — 7 flowersshops - 7 level programm / 7 видов - 7 уровней магазинов цветов
+- [info7](repositories/info7.md) — info, оркестратор и бот, плюс л аи, тест проекты с кит-оркестрацией, shop, todo, task manager 
+- [daten4](repositories/daten4.md) — dynamic planner,  динамический планировщик с шаблонами и подключением ИИ
+- [daten23](repositories/daten23.md) — info / интернет магазин 
+- [data40](repositories/data40.md) — info, интернет-магазин 
+- [daten20](repositories/daten20.md) — info / Document Management System
+- [info2](repositories/info2.md) — info, Тезаурус-Хаб программного кода
+- [daten30](repositories/daten30.md) — info app динамический хаб, микросервисы, через термукс 
+- [daten12](repositories/daten12.md) — Info рационал инфо программ 
+- [daten5](repositories/daten5.md) — info рационал инфо программ
+- [daten1](repositories/daten1.md) — Info блокнот, игры
+- [daten7](repositories/daten7.md) — Info обработка данных, раскладное меню
+- [daten6](repositories/daten6.md) — динамический каталог
+- [daten8](repositories/daten8.md) — Programm мониторинг интернет обьявлений (versch.)
+- [daten9](repositories/daten9.md) — Info меню, шаблоны, виджеты, веб страница, модули, динамические данные
+- [data4](repositories/data4.md) — Soz соц апп - программ перс бюджет 
+- [daten14](repositories/daten14.md) — Программы интеграция решений
